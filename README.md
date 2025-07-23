@@ -10,5 +10,5 @@ cd Stego-Crack
 
 ## Usage
 ```bash
-USAGE: [-o outputfile] stegoFile wordlist.txt
+USAGE: ./stegcrack.sh [-o outputfile] stegoFile wordlist.txt
 ```
